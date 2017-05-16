@@ -1,0 +1,1 @@
+It also may be important to you to print all the characters with the maximum number of appearances. This only prints the first one encountered. Both versions only return one character.

@@ -19,7 +19,7 @@ public class Count_Vowels_String {
 			  }
 		}
 		System.out.println("Number of Vowels in the "+inputLine+" is : " + vowels);
-		in.close();
-	}
+		in.close();		
+	}	
 
 }
